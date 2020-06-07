@@ -33,3 +33,4 @@ tbskip.taobao.com^
 ||800cdn.com^
 ||bce.baidu.com^
 ||aboluowang.com^
+/t\d\.baidu.com.*/
